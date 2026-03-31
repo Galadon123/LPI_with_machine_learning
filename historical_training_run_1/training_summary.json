@@ -1,0 +1,20 @@
+{
+  "li_test": {
+    "model": "chosen=ensemble",
+    "AUROC": 0.8907891193105306,
+    "LogLoss": 0.4247844800327274,
+    "Brier": 0.13560576268676586
+  },
+  "lsf_val": {
+    "RMSE": 0.08069914643262541,
+    "MAE": 0.03945235393347354
+  },
+  "lsf_test": {
+    "RMSE": 0.1419670107258976,
+    "MAE": 0.05463899768735785
+  },
+  "n_rows_combined": 1153,
+  "n_rows_with_crr_target": 1010,
+  "li_artifact": "historical_training_run_1/LI/li_wrapper.pkl",
+  "lsf_artifact": "historical_training_run_1/LSF/lsf_wrapper.pkl"
+}
