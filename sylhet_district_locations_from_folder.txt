@@ -1,0 +1,115 @@
+Locations in Sylhet District only (from SPT Value folder structure)
+Total: 111
+================================================================================
+
+   1. Abdul Quayum Chowdhury, Akhalia, 29.08.19
+   2. Abul Hasnat Chowdhury, Akhalia,
+   3. Ajit Kumar Bhattacharjee, Kajolshah, 12.08.2022
+   4. Amin Uddin Chowdhury, Guabari, 26.07.2022
+   5. Amir Ali, Porshi-104, Kawapara, 19.04.2022
+   6. Anupam Chandra Das, Kalibari, 27.11.2020
+   7. Ashit Debnath, Gowalabazar, 28.06.2022
+   8. Dr. Bijoy Krishna Banik Haldarpara, 18.01.2021
+   9. Dr. Mrittunjoy Kunda, Senpara, 20.05.2022
+  10. Dr. Wahiduzzaman, Modina Market, 02.01.2021
+  11. Executive Engineer, DPHE, Sylhet, 21.02.2022
+  12. Executive Engineer, PWD, 19.03.2022
+  13. Executive Engineer, PWD, 21.03.2022
+  14. Executive Engineer, PWD, Sylhet, 13.02.2022
+  15. Executive Engineer, PWD, Sylhet,06.03.2022
+  16. Executive Engineer, PWD, Sylhet,25.02.2022
+  17. Executive Engineer, Road Division, 29.12.2021
+  18. Faruk Ahmed, Lake City RA, Akhalia, 10.10.2021
+  19. Forida Khanom, Srerampur, South Surma, 14.02.2022
+  20. Gias Uddin Ahmed, Kanishail, 20.05.2021
+  21. Hafiz Md. Saidul Islam, Akhalia, 01.11.19
+  22. Haji Helal Uddin Ahmed, Kanishail, 20.05.2021
+  23. Helal Ahmed, Sonali RA, Damalipara, 04.02.2020
+  24. Jame Mosjid Committee, Koradipara, 10.03.2022
+  25. Jamilur Rahman, Dhaka Daskhin, 23.05.2022
+  26. Jashoda Dulal Talukdar, Dolia, 30.04.2022
+  27. Jesmin Akter, Sunali RA, 20.03.2022
+  28. Jesmin Ara Khanom,
+  29. Kadir Miah, Noikhai, South Surma, 11.01.2022
+  30. Khorshed Alam Khan, Akhalia, 07.08.2022
+  31. Liakat Hussain , Sadar, Sylhet, 22.02.2022
+  32. Lovely Begum, Khadra RA, Akhalia, 14.08.2020
+  33. M.A.Matin, Housing Estate, 09.08.2022
+  34. Madrasatul Arafah, Sadapara,08.08.2022
+  35. Mahmud Hossain Arif, Houldarpara, 27.11.19
+  36. Mahmud Hussain, Al-Islah, Uttar Baluchar, 09.10.18
+  37. Malik Uddin, Neharipara, 02.12.19
+  38. Md. Abdul Hamid, Modina Market, 19.02.2020
+  39. Md. Abdul Kader, Modina Market, 09.10.2022
+  40. Md. Abul Kalam, Nowapara, Akhalia, 15.10.19
+  41. Md. Abul Khair, Kushighat, 11.02.2022
+  42. Md. Akram Ali, South Surma, 17.01.2022
+  43. Md. Atahur Rahman, Kalibari Road, 07.01.2020
+  44. Md. Delwar Hossain, Silver City, 10.03.2022
+  45. Md. Eliyas. Miah, Medical Road, 17.11.2021
+  46. Md. Fakhruzzaman, Islampur, 13.01.2022
+  47. Md. Habibullah Miah, Baluchar, 06.04.2022
+  48. Md. Habibullah, Modina Market, 02.02.2020
+  49. Md. Hasan Chowdhury, Akhalia, 20.10.18
+  50. Md. Jahangir Alam, Dorga Moholla, 03.06.2022
+  51. Md. Jubar Ahmed, Baluchar,23.09.2022
+  52. Md. Kamal Ahmed, Amborkhana, 18.05.2022
+  53. Md. Kamal Hussain, Lake City, Akhalia, 13.10.19
+  54. Md. Khaled Siraj, Baluchor, 23.03.2022
+  55. Md. Nazim Uddin , Kanishail, 21.05.2021
+  56. Md. Nazmul Islam, Masudighirpar, 04.09.2022
+  57. Md. Nazrul Islam, Kuarpar, 24.02.2022
+  58. Md. Nazrul Islam, Sadar, 24.03.2022
+  59. Md. Nuru Miah, Mitali, Subitbazar, 17.10.2022
+  60. Md. Oliur Rahman, Madanibag, 23.09.2022
+  61. Md. Rajik Miah, Sonali RA, Akhalia, 15.08.2020
+  62. Md. Robviur Rahman, Akhalia, 27.07.2020
+  63. Md. Ruhel Khan, Tukerbazar, 09.02.2022
+  64. Md. Saidur Rahman, Akhalia, 05.02.2020
+  65. Md. Shafiqul Islam Bhuya, Daspara, 30.07.2022
+  66. Md. Shahjahan Abdullah Lake City,
+  67. Md. Shofique Miah, Keshabpur, 18.02.2022
+  68. Md. Sirajul Islam, Tukerbazar, 14.08.2022
+  69. Md. Tazul Islam, 29 Lake City, Akhalia, 22.07.19
+  70. Mirabazar, Sylhet, 01.01.2022
+  71. Mohammad Gulam Faruk, Baluchar, 06.04.2022
+  72. Mohammad Rashedul Islam, Laldighirpar, 11.05.2022
+  73. Mohammad Shaiful Alam Amin, Akhalia, 02.08.2022
+  74. Mohammad Zakaria, City Corner, 05.03.2022
+  75. Mohammed Mashud Wahid, Jerjeripara, 12.01.2022
+  76. Mohammed Nazir Ahmed, Kadomtoli, 18.09.2022
+  77. Mohammed Ruksar Uddin, Sathpur, 26.07.2022
+  78. Mojnu Miah, MegnaB-52, Dariapara07.03.2022
+  79. Monayem Khan, Mia fazil chist, 24.05.2022
+  80. Mowlana Mokbul Ahmed, Akhalia, 06.09.2020
+  81. Mr. Hafzul bari, Hossain Nagor, 29.07.2022
+  82. Mr. Siraj Ali, Mirabazar, 30.06.2022
+  83. Mr. Yousuf Ali, Tultikor, 12.03.2022
+  84. Muhammad Badruddin, Daspara, 27.08.2022
+  85. Muhammad Murshed Alam, Akhakia, 01.01.2022
+  86. Muhammad Shahidul Islam, Tillargoan, 01.06.2022
+  87. Mustafa Miah, Bargull, Akhalia, 17.10.2020
+  88. Nibas-B, Jame mosjid, patantula,
+  89. Noyon Tara Begum, Akhalia, 13.10.19
+  90. Officer Commanding, BAF, Samsernagor, 14.09.2022
+  91. Rahena Begum, Chalibondor, 27.07.2022
+  92. Ringku Talukder, Karipara, Notunbazar, 30.10.19
+  93. Rowshon Palace, Modina Market, 12.06.2021
+  94. Rubal Ahmed, Sadipur, Sylhet, 30.12.2021
+  95. Sadona Akther, Baniachang,
+  96. Salim Uddin, Baypass Road, 02.04.2022
+  97. Shahadat hussein Kabir, Baluchar, 02.09.2022
+  98. Shahida Easmin, West kajalshah, 16.12.2022
+  99. Shahnaj Ali, South Surma, 25.01.2022
+ 100. Shamim Ahmed Chowdhury, Shahieidgha, 28.03.2022
+ 101. Shanu Miah, 01.01.2022
+ 102. Shoktipada paul, Moglabazar, 04.08.2022
+ 103. Shushmita Das, Hawalderpara, 09.01.2021
+ 104. Sushanta Suthdradar, Baraikuna, 03.01.2022
+ 105. Syed Golam Ambia, Mirapara, 19.04.2022
+ 106. Syed Jamal Ahmed, Al-Amin RA, 24.09.2022
+ 107. Syed Mesbah Uddin, Purboghasitula, 03.01.2022
+ 108. Tahera Haque Shahena, Borshala, 22.12.2021
+ 109. Tanvir Ahmed, Borshala, Sadar, 23.12.2021
+ 110. Tanvir Ahmed, Shamimabad, 08.02.2022
+ 111. Upor Shampur Purbotula Dubai Jame Mosjid,
