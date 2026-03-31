@@ -1,0 +1,536 @@
+No,Site,Boring,Class,Liquefied,N60,Depth_m,FC_pct,GWT_m,PGA_g,sigma_v_prime_t_m2,sigma_v_t_m2,Mw_or_extra
+1,Annan,BH-A1,Liq1,1,1.3,1.0,75.0,0.9,0.228,6.4,2.2,2.5
+2,Annan,BH-A1,Liq2,1,6.5,2.0,33.0,0.9,0.228,6.4,7.0,12.6
+3,Annan,BH-A2,Liq1,1,1.3,1.0,26.0,0.8,0.228,6.4,1.4,1.9
+4,Annan,BH-A2,Liq2,1,6.5,3.0,65.0,0.8,0.228,6.4,5.9,11.6
+5,Annan,BH-A3,Liq1,1,3.0,2.0,24.0,0.8,0.228,6.4,3.4,5.6
+6,Annan,BH-A4,Liq1,1,1.4,43.0,0.6,0.228,6.4,2.1,3.0,nan
+7,Annan,BH-A4,Liq2,1,7.3,19.0,0.6,0.228,6.4,7.4,14.1,nan
+8,Annan,BH-A5,Liq1,1,1.3,28.0,0.6,0.228,6.4,1.8,2.5,nan
+9,Annan,BH-A5,Liq2,1,4.3,99.0,0.6,0.228,6.4,4.6,8.3,nan
+10,Annan,BH-A6,Liq1,1,1.3,23.0,0.6,0.228,6.4,1.8,2.5,nan
+11,Annan,BH-A6,Liq2,1,4.3,97.0,0.6,0.228,6.4,4.6,8.3,nan
+12,Chiuanshing Industrial Park,BS10-1,Liq1,1,2.7,2.0,36.0,1.1,0.124,7.6,3.4,5.0
+13,Chiuanshing Industrial Park,BS10-1,Liq2,1,4.7,2.0,53.0,1.1,0.124,7.6,5.1,8.8
+14,Chiuanshing Industrial Park,BS12-1,Liq1,1,7.7,4.0,52.0,1.1,0.124,7.6,7.8,14.4
+15,Chiuanshing Industrial Park,BS12-1,Liq2,1,8.7,4.0,60.0,1.1,0.124,7.6,8.7,16.3
+16,Chiuanshing Industrial Park,BS12-1,Liq3,1,2.7,5.0,7.0,1.1,0.124,7.6,3.4,5.0
+17,Chiuanshing Industrial Park,BS12-1,Liq3,1,3.7,5.0,21.0,1.1,0.124,7.6,4.3,6.9
+18,Chiuanshing Industrial Park,BS13-1,Liq1,1,3.7,4.0,30.0,1.1,0.124,7.6,4.4,7.0
+19,Chiuanshing Industrial Park,BS15-1,Liq1,1,2.7,2.0,9.0,1.1,0.124,7.6,3.3,4.9
+20,Chiuanshing Industrial Park,BS16-1,Liq1,1,5.7,2.0,33.0,1.1,0.124,7.6,6.5,11.1
+21,Chiuanshing Industrial Park,BS16-1,Liq2,1,7.7,2.0,42.0,1.1,0.124,7.6,8.5,15.1
+22,Chiuanshing Industrial Park,BS16-1,Liq3,1,4.7,5.0,54.0,1.1,0.124,7.6,5.4,9.1
+23,Chiuanshing Industrial Park,BS21-1,Liq1,1,2.7,7.0,5.0,1.1,0.124,7.6,3.0,4.7
+24,Chiuanshing Industrial Park,BS2-2,Liq1,1,2.7,3.0,46.0,1.1,0.124,7.6,6.2,7.8
+25,Chiuanshing Industrial Park,BS5-1,Liq1,1,2.7,5.0,12.0,1.1,0.124,7.6,3.3,4.9
+26,Chiuanshing Industrial Park,BS7-1,Liq1,1,8.7,12.0,4.0,1.1,0.124,7.6,9.6,17.2
+27,Chiuanshing Industrial Park,DH-13,Liq1,1,2.8,4.0,80.0,1.4,0.165,7.6,3.7,5.2
+28,Chiuanshing Industrial Park,DH-13,Liq2,1,3.8,3.0,24.0,1.4,0.165,7.6,4.7,7.1
+29,Chiuanshing Industrial Park,DH-14,Liq1,1,7.8,11.0,25.0,1.4,0.165,7.6,8.5,14.9
+30,Chiuanshing Industrial Park,DH-15,Liq1,1,1.8,2.0,68.0,1.5,0.165,7.6,3.3,3.5
+31,Chiuanshing Industrial Park,DH-15,Liq2,1,4.8,3.0,79.0,1.5,0.165,7.6,6.3,9.6
+32,Chiuanshing Industrial Park,DH-16,Liq1,1,1.8,2.0,65.0,1.3,0.165,7.6,2.9,3.4
+33,Chiuanshing Industrial Park,DH-16,Liq2,1,8.8,5.0,31.0,1.3,0.165,7.6,10.0,17.5
+34,Chiuanshing Industrial Park,DH-17,Liq1,1,3.8,5.0,69.0,1.3,0.165,7.6,4.9,7.4
+35,Chiuanshing Industrial Park,DH-17,Liq2,1,4.8,5.0,76.0,1.3,0.165,7.6,5.9,9.3
+36,Chiuanshing Industrial Park,DH-17,Liq3,1,1.8,3.0,73.0,1.3,0.165,7.6,3.0,3.5
+37,Dacun Shiang,BH-01,Liq1,1,7.3,7.0,28.0,3.4,0.211,7.6,9.5,13.4
+38,Maolo River,A125-5,Liq1,1,5.3,14.0,16.0,4.1,0.42,7.6,8.4,9.7
+39,Maolo River,A125-5,Liq2,1,8.3,11.0,38.0,4.1,0.42,7.6,12.0,16.2
+40,Maolo River,A125-7,Liq1,1,3.2,8.0,83.0,2.9,0.42,7.6,5.6,5.9
+41,Maolo River,A125-9,Liq1,1,4.3,6.0,11.0,2.9,0.42,7.6,7.2,8.5
+42,Maolo River,A125-9,Liq2,1,19.3,6.0,0.0,2.9,0.42,7.6,25.3,41.6
+43,Maolo River,A126-1,Liq1,1,2.8,8.0,29.0,1.4,0.42,7.6,3.5,4.9
+44,Maolo River,A126-1,Liq2,1,4.3,6.0,13.0,1.4,0.42,7.6,4.9,7.8
+45,Maolo River,A126-2,Liq1,1,5.8,13.0,34.0,3.5,0.42,7.6,8.1,10.4
+46,Maolo River,A126-2,Liq2,1,8.8,11.0,41.0,3.5,0.42,7.6,11.1,16.4
+47,Maolo River,A126-4,Liq1,1,1.8,3.0,23.0,1.7,0.42,7.6,3.2,3.4
+48,Maolo River,A128-2,Liq1,1,1.8,8.0,0.0,1.7,0.42,7.6,3.2,3.3
+49,Maolo River,A128-2,Liq2,1,2.8,2.0,18.0,1.7,0.42,7.6,4.1,5.2
+50,Maolo River,A128-5,Liq1,1,4.3,12.0,29.0,2.5,0.42,7.6,6.3,8.1
+51,Maolo River,A128-5,Liq2,1,7.3,7.0,16.0,2.5,0.42,7.6,9.5,14.3
+52,Maolo River,A128-7,Liq1,1,1.8,3.0,77.0,1.7,0.42,7.6,3.2,3.4
+53,Maolo River,A128-7,Liq2,1,5.8,6.0,23.0,1.7,0.42,7.6,6.8,10.9
+54,Maolo River,A129-1,Liq1,1,2.8,2.0,30.0,2.6,0.42,7.6,5.1,5.3
+55,Maolo River,A129-3,Liq1,1,1.9,2.0,56.0,1.5,0.42,7.6,3.2,3.5
+56,Maolo River,A129-3,Liq2,1,6.8,4.0,17.0,1.5,0.42,7.6,7.8,13.0
+57,Maolo River,A130-1,Liq1,1,3.3,3.0,80.0,3.1,0.42,7.6,5.6,5.8
+58,Maolo River,A130-2,Liq1,1,11.8,21.0,18.0,3.0,0.42,7.6,15.9,24.7
+59,Maolo River,A130-2,Liq2,1,13.3,16.0,18.0,3.0,0.42,7.6,18.0,28.2
+60,Maolo River,A130-2,Liq3,1,8.8,28.0,0.0,3.0,0.42,7.6,11.7,17.5
+61,Mingjian Shiang,A133-3,Liq1,1,5.8,46.0,0.0,4.8,1.0,7.6,25.1,26.0
+62,Mingjian Shiang,A133-3,Liq2,1,7.3,8.0,59.0,4.8,1.0,7.6,26.7,29.2
+63,Mingjian Shiang,A133-3,Liq3,1,4.9,12.0,41.0,4.8,1.0,7.6,24.2,24.2
+64,Mingjian Shiang,A133-4,Liq1,1,2.8,6.0,34.0,1.9,1.0,7.6,18.7,19.5
+65,Mingjian Shiang,A133-4,Liq3,1,2.0,4.0,34.0,1.9,1.0,7.6,17.9,18.0
+66,Mingjian Shiang,A134-2,Liq1,1,4.3,9.0,61.0,3.5,1.0,7.6,22.0,22.7
+67,Mingjian Shiang,RBH1,Liq1,1,14.8,24.0,55.0,7.0,1.0,7.6,23.9,31.7
+68,Mingjian Shiang,RBH1,Liq3,1,11.8,32.0,41.0,7.0,1.0,7.6,20.4,25.2
+69,Mingjian Shiang,RBH2,Liq1,1,19.3,26.0,17.0,8.8,1.0,7.6,32.1,42.6
+70,Mingjian Shiang,RBH3,Liq1,1,1.8,8.0,27.0,1.5,1.0,7.6,3.8,4.1
+71,Mingjian Shiang,RBH3,Liq2,1,14.8,12.0,49.0,1.5,1.0,7.6,17.8,31.1
+72,Nangang Bridge,RBH-1,Liq1,1,3.6,4.0,63.0,2.2,0.428,7.6,5.1,6.5
+73,Nangang Bridge,RBH-1,Liq2,1,5.1,3.0,22.0,2.2,0.428,7.6,6.4,9.3
+74,Nangang Bridge,RBH-1,Liq3,1,2.3,4.0,63.0,2.2,0.428,7.6,4.1,4.2
+75,Nangang Industrial Park,B1,Liq1,1,4.2,12.0,26.0,2.0,0.428,7.6,5.8,8.1
+76,Nangang Industrial Park,B2,Liq1,1,4.2,11.0,25.0,2.1,0.428,7.6,5.9,8.1
+77,Nangang Industrial Park,BHA-1,Liq1,1,4.3,9.0,57.0,2.3,0.428,7.6,6.2,8.2
+78,Nangang Industrial Park,BHA-1,Liq2,1,7.3,4.0,17.0,2.3,0.428,7.6,9.0,14.0
+79,Nangang Industrial Park,BHA-2,Liq1,1,3.0,4.0,61.0,2.3,0.428,7.6,5.0,5.7
+80,Nangang Industrial Park,BHA-3,Liq1,1,2.5,8.0,42.0,2.3,0.428,7.6,4.9,5.1
+81,Nangang Industrial Park,BHA-4,Liq1,1,4.6,19.0,28.0,2.3,0.428,7.6,7.2,9.5
+82,Nantou City,BH-3,Liq1,1,4.8,9.0,20.0,4.0,0.428,7.6,8.7,9.5
+83,Nantou City,BH-3,Liq2,1,5.7,7.0,18.0,4.0,0.428,7.6,9.6,11.4
+84,Nantou City,BH-4,Liq1,1,12.7,17.0,44.0,5.0,0.428,7.6,18.6,26.4
+85,Nantou City,BH-4,Liq3,1,5.1,7.0,82.0,5.0,0.428,7.6,10.7,10.8
+86,Nantou City,BH-5,Liq1,1,3.3,5.0,97.0,2.8,0.428,7.6,5.4,5.9
+87,Nantou City,BH-5,Liq2,1,4.8,10.0,14.0,2.8,0.428,7.6,6.8,8.9
+88,Nantou City,BH-6,Liq1,1,2.7,13.0,14.0,1.2,0.428,7.6,4.2,5.8
+89,Nantou City,BH-6,Liq2,1,5.7,16.0,15.0,1.2,0.428,7.6,8.1,12.6
+90,Nantou City,BH-7,Liq1,1,2.7,6.0,22.0,0.7,0.428,7.6,3.0,5.1
+91,Nantou City,BH-8,Liq1,1,7.2,11.0,21.0,5.0,0.428,7.6,12.3,14.5
+92,Nantou City,BH-10,Liq1,1,2.7,5.0,24.0,2.4,0.428,7.6,5.1,5.5
+93,Nantou City,BH-11,Liq1,1,7.7,12.0,55.0,2.8,0.428,7.6,9.6,14.5
+94,Nantou City,BH-12,Liq1,1,5.7,4.0,35.0,2.8,0.428,7.6,8.1,11.0
+95,Nantou City,BH-14,Liq1,1,3.7,10.0,30.0,1.5,0.428,7.6,5.0,7.2
+96,Nantou City,BH-14,Liq2,1,5.7,10.0,30.0,1.5,0.428,7.6,6.8,11.0
+97,Nantou City,RBH-1,Liq1,1,3.1,5.0,63.0,2.3,0.428,7.6,5.0,5.8
+98,Nantou City,RBH-1,Liq2,1,6.1,7.0,61.0,2.3,0.428,7.6,7.7,11.5
+99,Nantou City,RBH-2,Liq1,1,1.5,4.0,42.0,1.2,0.428,7.6,2.7,3.0
+100,Nantou City,RBH-2,Liq2,1,4.3,3.0,62.0,1.2,0.428,7.6,5.4,8.5
+101,Sinshih,BH-S1,Liq1,1,4.8,7.0,88.0,0.7,0.294,6.4,5.0,9.1
+102,Sinshih,BH-S2,Liq1,1,8.3,4.0,84.0,0.6,0.294,6.4,8.9,16.6
+103,Sinshih,BH-S3,Liq1,1,3.0,2.0,52.0,0.9,0.294,6.4,3.9,6.0
+104,Sinshih,BH-S4,Liq1,1,1.3,58.0,0.6,0.294,6.4,1.6,2.4,nan
+105,Sinshih,BH-S4,Liq2,1,2.8,2.0,67.0,0.6,0.294,6.4,2.9,5.1
+106,Sinshih,BH-S5,Liq1,1,1.3,13.0,0.6,0.294,6.4,1.7,2.4,nan
+107,Sinshih,BH-S5,Liq2,1,2.8,44.0,0.6,0.294,6.4,3.1,5.4,nan
+108,Sinshih,BH-S6,Liq1,1,1.4,17.0,0.5,0.294,6.4,1.8,2.7,nan
+109,Sinshih,BH-S6,Liq2,1,2.8,29.0,0.5,0.294,6.4,3.1,5.4,nan
+110,Sinshih,BH-S7,Liq1,1,2.8,2.0,9.0,0.7,0.294,6.4,3.7,5.7
+111,Taichung,RBH-1,Liq1,1,2.9,3.0,24.0,2.7,0.498,7.6,5.5,5.7
+112,Taichung,RBH-1,Liq2,1,4.3,3.0,24.0,2.7,0.498,7.6,6.8,8.4
+113,Taichung Harbour,BH-1,Liq1,1,7.8,11.0,16.0,3.8,0.165,7.6,11.5,15.5
+114,Taichung Harbour,BH-2,Liq1,1,7.8,9.0,11.0,3.1,0.165,7.6,9.7,14.4
+115,Taichung Harbour,BH-2,Liq2,1,9.8,10.0,9.0,3.1,0.165,7.6,11.6,18.3
+116,Taichung Harbour,BH-3,Liq1,1,5.2,8.0,16.0,2.8,0.165,7.6,7.6,10.0
+117,Taichung Harbour,BH-4,Liq1,1,3.8,9.0,11.0,2.3,0.165,7.6,6.0,7.5
+118,Taichung Harbour,BH-5,Liq1,1,7.8,9.0,14.0,3.0,0.165,7.6,9.6,14.4
+119,Taichung Harbour,BH-5,Liq2,1,10.0,8.0,45.0,3.0,0.165,7.6,11.7,18.7
+120,Taichung Harbour,BH-6,Liq1,1,5.2,6.0,15.0,3.0,0.165,7.6,8.1,10.4
+121,Taichung Harbour,BH-6,Liq2,1,7.8,7.0,18.0,3.0,0.165,7.6,10.7,15.5
+122,Taichung Harbour,BH-7,Liq1,1,5.2,6.0,15.0,2.4,0.165,7.6,7.0,9.8
+123,Taichung Harbour,BH-7,Liq3,1,3.8,6.0,27.0,2.4,0.165,7.6,5.7,7.1
+124,Taichung Harbour,BH-8,Liq1,1,7.8,6.0,13.0,3.8,0.165,7.6,10.5,14.5
+125,Taichung Harbour,BH-8,Liq3,1,4.2,5.0,16.0,3.8,0.165,7.6,7.0,7.4
+126,Taichung Harbour,BH-8,Liq3,1,5.2,6.0,11.0,3.8,0.165,7.6,8.1,9.5
+127,Taichung Harbour,BH-9,Liq1,1,3.8,9.0,19.0,1.3,0.165,7.6,5.0,7.5
+128,Taichung Harbour,BH-10,Liq1,1,3.8,7.0,28.0,1.6,0.165,7.6,4.3,6.5
+129,Taichung Harbour,BH-11,Liq1,1,7.8,7.0,19.0,2.4,0.165,7.6,10.0,15.4
+130,Taichung Harbour,BH-11,Liq3,1,3.8,5.0,36.0,2.4,0.165,7.6,6.2,7.6
+131,Taichung Harbour,BH-11,Liq3,1,5.2,7.0,35.0,2.4,0.165,7.6,7.6,10.4
+132,Taichung Harbour,BH-12,Liq1,1,5.2,7.0,9.0,3.1,0.165,7.6,8.2,10.3
+133,Taichung Harbour,BH-12,Liq2,1,7.8,7.0,17.0,3.1,0.165,7.6,10.7,15.3
+134,Taichung Harbour,BH-12,Liq3,1,3.8,6.0,9.0,3.1,0.165,7.6,6.8,7.5
+135,Taichung Harbour No.3,B1,Liq1,1,7.3,6.0,22.0,2.7,0.165,7.6,9.2,13.9
+136,Taichung Harbour No.3,B2,Liq1,1,7.3,6.0,13.0,2.8,0.165,7.6,9.7,14.1
+137,Taichung Harbour No.3,B2,Liq2,1,10.3,6.0,13.0,2.8,0.165,7.6,12.5,19.9
+138,Taichung Harbour No.3,B3,Liq1,1,10.9,10.0,13.0,2.8,0.165,7.6,12.7,20.9
+139,Taichung Harbour No.3,B3,Liq3,1,8.8,11.0,13.0,2.8,0.165,7.6,10.8,16.7
+140,Taichung Harbour No.3,B4,Liq1,1,11.8,12.0,12.0,2.8,0.165,7.6,12.2,21.2
+141,Taichung Harbour No.3,B5,Liq1,1,5.8,5.0,40.0,2.8,0.165,7.6,8.0,11.0
+142,Taichung Harbour No.3,B5,Liq2,1,8.8,7.0,42.0,2.8,0.165,7.6,10.3,16.4
+143,Taichung Harbour No.3,B6,Liq1,1,5.8,4.0,30.0,2.8,0.165,7.6,8.5,11.5
+144,Taichung Harbour No.3,B6,Liq2,1,7.3,5.0,30.0,2.8,0.165,7.6,9.9,14.4
+145,Taichung Harbour No.3,B7,Liq1,1,8.8,6.0,44.0,2.8,0.165,7.6,10.2,16.2
+146,Taiping City,RBH1,Liq1,1,14.9,25.0,51.0,2.7,0.498,7.6,19.2,31.4
+147,Taiping City,RBH2,Liq1,1,4.3,14.0,69.0,2.7,0.498,7.6,7.5,9.1
+148,Taiping City,RBH2,Liq2,1,14.8,23.0,54.0,2.7,0.498,7.6,18.7,30.8
+149,Tsautuen Jen,BH-1,Liq1,1,2.7,2.0,55.0,1.5,0.33,7.6,4.2,5.4
+150,Tsautuen Jen,BH-1,Liq3,1,1.7,4.0,54.0,1.5,0.33,7.6,3.2,3.4
+151,Tsautuen Jen,BH-2,Liq1,1,2.7,8.0,15.0,1.5,0.33,7.6,4.1,5.3
+152,Tsautuen Jen,BH-2,Liq2,1,5.7,6.0,47.0,1.5,0.33,7.6,7.0,11.2
+153,Tsautuen Jen,BH-2,Liq3,1,1.7,2.0,25.0,1.5,0.33,7.6,3.1,3.3
+154,Wufeng Shiang,B-3,Liq1,1,17.7,23.0,51.0,1.3,0.789,7.6,19.6,36.0
+155,Wufeng Shiang,B-3,Liq2,1,19.2,22.0,56.0,1.3,0.789,7.6,21.2,39.1
+156,Wufeng Shiang,B-5,Liq1,1,1.2,3.0,55.0,1.2,0.789,7.6,2.5,2.5
+157,Wufeng Shiang,B-7,Liq1,1,3.7,12.0,20.0,3.2,0.789,7.6,6.7,7.3
+158,Wufeng Shiang,B-8,Liq1,1,1.2,2.0,65.0,0.5,0.789,7.6,1.6,2.4
+159,Wufeng Shiang,B-9,Liq1,1,2.5,5.0,38.0,2.0,0.789,7.6,4.3,4.8
+160,Wufeng Shiang,B-9,Liq2,1,6.7,10.0,15.0,2.0,0.789,7.6,8.8,13.5
+161,Wufeng Shiang,B-10,Liq1,1,3.7,9.0,69.0,1.4,0.789,7.6,5.2,7.6
+162,Wufeng Shiang,B-10,Liq2,1,5.7,11.0,22.0,1.4,0.789,7.6,7.2,11.5
+163,Wufeng Shiang,B-11,Liq1,1,3.7,7.0,45.0,0.9,0.789,7.6,4.7,7.5
+164,Wufeng Shiang,B-12,Liq1,1,13.2,25.0,43.0,4.2,0.789,7.6,18.6,27.6
+165,Wufeng Shiang,B-12,Liq2,1,14.7,26.0,39.0,4.2,0.789,7.6,20.3,30.8
+166,Wufeng Shiang,B-13,Liq1,1,1.2,2.0,30.0,0.9,0.789,7.6,2.1,2.4
+167,Wufeng Shiang,B-13,Liq2,1,2.7,3.0,38.0,0.9,0.789,7.6,3.5,5.3
+168,Wufeng Shiang,BHA-1,Liq1,1,3.2,13.0,14.0,2.3,0.789,7.6,5.3,6.3
+169,Wufeng Shiang,BHA-2,Liq1,1,2.6,15.0,20.0,2.3,0.789,7.6,4.8,5.2
+170,Wufeng Shiang,BHA-3,Liq1,1,3.4,16.0,14.0,2.3,0.789,7.6,5.4,6.6
+171,Wufeng Shiang,BHA-3,Liq3,1,2.4,2.0,33.0,2.3,0.789,7.6,4.5,4.7
+172,Wufeng Shiang,BHA-4,Liq1,1,2.6,18.0,18.0,2.3,0.789,7.6,5.1,5.4
+173,Wufeng Shiang,MBH-01,Liq1,1,2.9,9.0,44.0,2.7,0.789,7.6,5.7,5.9
+174,Wufeng Shiang,MBH-01,Liq2,1,11.9,12.0,68.0,2.7,0.789,7.6,15.6,24.8
+175,Wufeng Shiang,MBH-02,Liq1,1,4.3,7.0,27.0,2.3,0.789,7.6,6.6,8.6
+176,Wufeng Shiang,MBH-03,Liq1,1,2.9,3.0,46.0,2.8,0.789,7.6,5.5,5.7
+177,Wufeng Shiang,MBH-03,Liq2,1,5.9,6.0,27.0,2.8,0.789,7.6,8.4,11.5
+178,Wufeng Shiang,MBH-04,Liq1,1,2.9,4.0,53.0,2.6,0.789,7.6,5.3,5.7
+179,Wufeng Shiang,MBH-05,Liq1,1,2.9,4.0,33.0,2.7,0.789,7.6,5.6,5.8
+180,Wufeng Shiang,MBH-05,Liq2,1,4.3,5.0,43.0,2.7,0.789,7.6,6.9,8.5
+181,Wufeng Shiang,MBH-06,Liq1,1,2.9,8.0,30.0,1.9,0.789,7.6,4.9,5.9
+182,Wufeng Shiang,RBH-1,Liq1,1,2.9,7.0,36.0,2.3,0.789,7.6,5.2,5.7
+183,Wufeng Shiang,RBH-1,Liq2,1,9.1,7.0,42.0,2.3,0.789,7.6,11.8,18.5
+184,Wufeng Shiang,RBH-2,Liq1,1,2.5,6.0,41.0,2.3,0.789,7.6,4.7,4.9
+185,Yuanlin elementary school,BH-01,Liq1,1,4.3,6.0,40.0,1.8,0.211,7.6,6.0,8.5
+186,Yuanlin elementary school,BH-01,Liq2,1,10.3,8.0,29.0,1.8,0.211,7.6,11.4,19.9
+187,Yuanlin Jen,BH-6,Liq1,1,4.3,5.0,15.0,2.0,0.21,7.6,5.8,8.1
+188,Yuanlin Jen,BH-6,Liq2,1,5.8,5.0,10.0,2.0,0.21,7.6,7.3,11.1
+189,Yuanlin Jen,BH-7,Liq1,1,4.3,4.0,9.0,1.6,0.21,7.6,5.4,8.0
+190,Yuanlin Jen,BH-8,Liq1,1,5.8,6.0,10.0,1.6,0.21,7.6,6.3,10.4
+191,Yuanlin Jen,BH-9,Liq1,1,2.2,3.0,53.0,1.6,0.21,7.6,3.8,4.4
+192,Yuanlin Jen,BH-9,Liq2,1,8.8,7.0,36.0,1.6,0.21,7.6,9.5,16.6
+193,Yuanlin Jen,BH-10,Liq1,1,5.8,7.0,8.0,2.0,0.21,7.6,7.1,10.9
+194,Yuanlin Jen,BH-10,Liq1,1,8.8,4.0,30.0,1.7,0.21,7.6,9.8,16.9
+195,Yuanlin Jen,BH-12,Liq1,1,5.8,3.0,33.0,2.5,0.21,7.6,7.4,10.7
+196,Yuanlin Jen,BH-13,Liq1,1,2.8,3.0,70.0,1.8,0.21,7.6,4.4,5.4
+197,Yuanlin Jen,BH-13,Liq2,1,5.8,4.0,90.0,1.8,0.21,7.6,7.4,11.4
+198,Yuanlin Jen,BH-14,Liq1,1,2.8,3.0,27.0,1.6,0.21,7.6,4.3,5.5
+199,Yuanlin Jen,BH-15,Liq1,1,6.6,3.0,55.0,0.9,0.21,7.6,6.6,12.3
+200,Yuanlin Jen,BH-17,Liq1,1,12.2,10.0,24.0,4.5,0.21,7.6,16.2,23.9
+201,Yuanlin Jen,BH-18,Liq1,1,2.8,3.0,47.0,0.6,0.21,7.6,3.0,5.2
+202,Yuanlin Jen,BH-18,Liq2,1,4.3,3.0,98.0,0.6,0.21,7.6,4.4,8.1
+203,Yuanlin Jen,BH-19,Liq1,1,2.8,3.0,12.0,2.1,0.21,7.6,5.1,5.7
+204,Yuanlin Jen,BH-19,Liq2,1,8.8,4.0,46.0,2.1,0.21,7.6,11.0,17.6
+205,Yuanlin Jen,BH-20,Liq1,1,14.8,19.0,4.0,1.5,0.21,7.6,15.8,29.1
+206,Yuanlin Jen,BH-20,Liq3,1,13.3,20.0,11.0,1.5,0.21,7.6,14.2,25.9
+207,Yuanlin Jen,BH-21,Liq1,1,1.3,2.0,7.0,0.7,0.21,7.6,2.0,2.6
+208,Yuanlin Jen,BH-22,Liq1,1,2.8,4.0,17.0,2.5,0.21,7.6,5.3,5.6
+209,Yuanlin Jen,BH-22,Liq2,1,4.3,2.0,10.0,2.5,0.21,7.6,6.7,8.5
+210,Yuanlin Jen,BH-23,Liq1,1,5.8,10.0,14.0,1.7,0.21,7.6,7.0,11.1
+211,Yuanlin Jen,BH-23,Liq2,1,11.8,9.0,29.0,1.7,0.21,7.6,12.7,22.8
+212,Yuanlin Jen,BH-23,Liq3,1,1.9,3.0,8.0,1.7,0.21,7.6,3.3,3.4
+213,Yuanlin Jen,BH-24,Liq1,1,12.2,6.0,64.0,2.3,0.21,7.6,13.8,23.6
+214,Yuanlin Jen,BH-25,Liq1,1,5.8,6.0,57.0,0.8,0.21,7.6,6.2,11.1
+215,Yuanlin Jen,BH-26,Liq1,1,2.8,4.0,19.0,1.0,0.21,7.6,3.5,5.3
+216,Yuanlin Jen,BH-26,Liq2,1,5.8,5.0,82.0,1.0,0.21,7.6,6.5,11.3
+217,Yuanlin Jen,BH-27,Liq1,1,2.8,3.0,38.0,0.4,0.21,7.6,2.8,5.2
+218,Yuanlin Jen,BH-27,Liq2,1,5.8,3.0,47.0,0.4,0.21,7.6,5.8,11.2
+219,Yuanlin Jen,BH-28,Liq1,1,4.3,4.0,31.0,2.3,0.21,7.6,6.3,8.3
+220,Yuanlin Jen,BH-28,Liq2,1,7.3,4.0,59.0,2.3,0.21,7.6,9.1,14.1
+221,Yuanlin Jen,BH-29,Liq1,1,2.3,6.0,15.0,2.0,0.21,7.6,4.6,4.9
+222,Yuanlin Jen,BH-29,Liq2,1,5.8,4.0,54.0,2.0,0.21,7.6,8.0,11.8
+223,Yuanlin Jen,BH-30,Liq1,1,2.3,4.0,59.0,1.1,0.21,7.6,3.2,4.4
+224,Yuanlin Jen,BH-30,Liq2,1,7.3,7.0,15.0,1.1,0.21,7.6,8.3,14.5
+225,Yuanlin Jen,BH-31,Liq1,1,4.3,5.0,83.0,4.2,0.21,7.6,8.0,8.1
+226,Yuanlin Jen,BH-31,Liq2,1,7.3,5.0,15.0,4.2,0.21,7.6,10.7,13.8
+227,Yuanlin Jen,BH-32,Liq1,1,7.3,12.0,18.0,2.0,0.21,7.6,8.7,13.9
+228,Yuanlin Jen,BH-33,Liq1,1,5.8,5.0,52.0,1.4,0.21,7.6,6.5,10.9
+229,Yuanlin Jen,BH-34,Liq1,1,6.2,9.0,10.0,3.4,0.21,7.6,9.3,12.1
+230,Yuanlin Jen,BH-34,Liq2,1,12.8,10.0,21.0,3.4,0.21,7.6,15.7,25.1
+231,Yuanlin Jen,BH-35,Liq1,1,5.8,4.0,53.0,2.3,0.21,7.6,8.2,11.7
+232,Yuanlin Jen,BH-35,Liq3,1,4.3,9.0,26.0,2.3,0.21,7.6,6.7,8.7
+233,Yuanlin Jen,BH-41,Liq1,1,1.3,2.0,88.0,0.9,0.21,7.6,1.9,2.3
+234,Yuanlin Jen,BH-41,Liq2,1,7.3,5.0,64.0,0.9,0.21,7.6,7.1,13.4
+235,Yuanlin Jen,BH-42,Liq1,1,8.8,8.0,30.0,2.0,0.21,7.6,10.2,16.9
+236,Yuanlin Jen,BH-43,Liq1,1,10.5,14.0,15.0,0.5,0.21,7.6,9.1,19.1
+237,Yuanlin Jen,BH-44,Liq1,1,2.8,4.0,36.0,1.4,0.21,7.6,4.0,5.3
+238,Yuanlin Jen,BH-44,Liq2,1,8.8,5.0,25.0,1.4,0.21,7.6,9.5,16.9
+239,Yuanlin Jen,BH-46,Liq1,1,2.8,5.0,38.0,1.0,0.21,7.6,4.2,6.0
+240,Yuanlin Jen,BH-46,Liq2,1,7.3,2.0,79.0,1.0,0.21,7.6,8.2,14.5
+241,Yuanlin Jen,BH-47,Liq1,1,2.8,4.0,30.0,2.3,0.21,7.6,4.9,5.4
+242,Yuanlin Jen,BH-47,Liq2,1,7.3,6.0,94.0,2.3,0.21,7.6,8.8,13.8
+243,Yuanlin Jen,BH-48,Liq1,1,12.2,13.0,15.0,7.3,0.21,7.6,17.7,22.5
+244,Yuanlin Jen,BH-50,Liq1,1,4.3,4.0,19.0,2.3,0.21,7.6,5.8,7.8
+245,Yuanlin Jen,NO.1,Liq1,1,2.8,5.0,26.0,0.6,0.211,7.6,3.0,5.2
+246,Yuanlin Jen,NO.1,Liq2,1,7.3,7.0,47.0,0.6,0.211,7.6,7.0,13.7
+247,Yuanlin Jen,NO.2,Liq1,1,2.8,4.0,26.0,0.5,0.211,7.6,2.9,5.2
+248,Yuanlin Jen,NO.2,Liq2,1,7.3,7.0,13.0,0.5,0.211,7.6,7.0,13.8
+249,Yuanlin Jen,NO.3,Liq1,1,1.3,6.0,0.0,1.2,0.211,7.6,2.3,2.4
+250,Yuanlin Jen,NO.3,Liq2,1,8.8,12.0,14.0,1.2,0.211,7.6,9.3,16.8
+251,Yuanlin Jen,NO.4,Liq1,1,1.3,4.0,34.0,1.1,0.211,7.6,2.4,2.6
+252,Yuanlin Jen,NO.4,Liq2,1,8.8,10.0,20.0,1.1,0.211,7.6,9.1,16.8
+253,Yuanlin Jen,NO.5,Liq1,1,1.3,4.0,29.0,0.9,0.211,7.6,2.0,2.3
+254,Yuanlin Jen,NO.5,Liq2,1,2.8,3.0,57.0,0.9,0.211,7.6,3.2,5.1
+255,Yuanlin Jen,NO.6,Liq1,1,1.3,3.0,48.0,0.6,0.211,7.6,1.6,2.3
+256,Yuanlin Jen,NO.6,Liq2,1,2.8,3.0,69.0,0.6,0.211,7.6,2.8,5.0
+257,Yuanlin Jen,NO.7,Liq1,1,2.8,6.0,45.0,0.6,0.211,7.6,3.1,5.2
+258,Yuanlin Jen,NO.7,Liq2,1,11.8,7.0,48.0,0.6,0.211,7.6,10.5,21.7
+259,Yuanlin Jen,NO.8,Liq1,1,4.3,6.0,79.0,0.6,0.211,7.6,4.2,7.9
+260,Yuanlin Jen,NO.8,Liq2,1,5.8,4.0,85.0,0.6,0.211,7.6,5.4,10.6
+261,Yuanlin Jen,NO.9,Liq1,1,5.8,3.0,57.0,1.0,0.211,7.6,5.7,10.5
+262,Yuanlin Jen,NO.10,Liq1,1,11.8,12.0,13.0,0.6,0.211,7.6,10.8,22.0
+263,Yuanlin Jen,NO.10,Liq2,1,14.8,8.0,64.0,0.6,0.211,7.6,13.7,27.9
+264,Yuanlin Jen,NO.11,Liq1,1,2.8,4.0,84.0,1.1,0.211,7.6,3.6,5.3
+265,Yuanlin Jen,NO.11,Liq2,1,4.3,4.0,32.0,1.1,0.211,7.6,4.8,8.0
+266,Yuanlin Jen,NO.12,Liq1,1,1.3,2.0,72.0,1.1,0.211,7.6,2.2,2.3
+267,Yuanlin Jen,NO.12,Liq2,1,5.8,7.0,11.0,1.1,0.211,7.6,5.9,10.6
+268,Yuanlin Jen,NO.13,Liq1,1,4.3,7.0,22.0,2.1,0.211,7.6,6.3,8.5
+269,Yuanlin Jen,NO.13,Liq2,1,8.8,6.0,80.0,2.1,0.211,7.6,10.4,17.0
+270,Yuanlin Jen,NO.13,Liq3,1,2.8,6.0,56.0,2.1,0.211,7.6,4.8,5.5
+271,Beigang Jen,B1,nonliq,0,4.8,9.0,13.0,4.0,0.084,7.6,7.6,8.4
+272,Beigang Jen,B1,nonliq,0,6.2,1.0,42.0,4.0,0.084,7.6,9.0,11.2
+273,Beigang Jen,B1,nonliq,0,7.8,4.0,24.0,4.0,0.084,7.6,10.3,14.1
+274,Beigang Jen,B1,nonliq,0,9.8,3.0,28.0,4.0,0.084,7.6,12.0,17.8
+275,Beigang Jen,B1,nonliq,0,11.3,13.0,18.0,4.0,0.084,7.6,13.5,20.8
+276,Beigang Jen,B1,nonliq,0,12.8,5.0,9.0,4.0,0.084,7.6,15.0,23.7
+277,Beigang Jen,B1,nonliq,0,14.8,7.0,17.0,4.0,0.084,7.6,16.9,27.6
+278,Beigang Jen,B1,nonliq,0,15.8,10.0,22.0,4.0,0.084,7.6,17.8,29.6
+279,Beigang Jen,B1,nonliq,0,16.8,17.0,25.0,4.0,0.084,7.6,18.8,31.6
+280,Beigang Jen,B1,nonliq,0,17.8,12.0,13.0,4.0,0.084,7.6,19.8,33.6
+281,Beigang Jen,B1,nonliq,0,18.8,10.0,26.0,4.0,0.084,7.6,20.8,35.5
+282,Beigang Jen,B2,nonliq,0,4.8,11.0,13.0,4.0,0.084,7.6,7.0,7.8
+283,Beigang Jen,B2,nonliq,0,6.8,1.0,91.0,4.0,0.084,7.6,8.9,11.7
+284,Beigang Jen,B2,nonliq,0,8.8,3.0,23.0,4.0,0.084,7.6,10.6,15.4
+286,Beigang Jen,B2,nonliq,0,11.8,12.0,29.0,4.0,0.084,7.6,13.4,21.1
+287,Beigang Jen,B2,nonliq,0,14.2,6.0,44.0,4.0,0.084,7.6,15.6,25.9
+288,Beigang Jen,B2,nonliq,0,14.8,4.0,39.0,4.0,0.084,7.6,16.1,26.9
+289,Beigang Jen,B2,nonliq,0,15.8,6.0,61.0,4.0,0.084,7.6,16.9,28.6
+290,Beigang Jen,B2,nonliq,0,16.8,11.0,20.0,4.0,0.084,7.6,17.7,30.5
+291,Beigang Jen,B2,nonliq,0,17.8,14.0,14.0,4.0,0.084,7.6,18.7,32.4
+292,Beigang Jen,B2,nonliq,0,18.8,16.0,36.0,4.0,0.084,7.6,19.6,34.4
+293,Beigang Jen,B3,nonliq,0,4.8,7.0,9.0,4.0,0.084,7.6,7.2,8.0
+294,Beigang Jen,B3,nonliq,0,6.8,6.0,23.0,4.0,0.084,7.6,9.0,11.8
+295,Beigang Jen,B3,nonliq,0,8.8,1.0,42.0,4.0,0.084,7.6,10.9,15.7
+296,Beigang Jen,B3,nonliq,0,10.2,1.0,39.0,4.0,0.084,7.6,12.2,18.5
+297,Beigang Jen,B3,nonliq,0,10.8,5.0,17.0,4.0,0.084,7.6,12.8,19.5
+298,Beigang Jen,B3,nonliq,0,11.8,15.0,8.0,4.0,0.084,7.6,13.7,21.5
+299,Beigang Jen,B3,nonliq,0,14.2,11.0,8.0,4.0,0.084,7.6,16.0,26.2
+300,Beigang Jen,B3,nonliq,0,14.8,9.0,10.0,4.0,0.084,7.6,16.5,27.3
+301,Beigang Jen,B3,nonliq,0,15.8,10.0,18.0,4.0,0.084,7.6,17.4,29.2
+302,Beigang Jen,B3,nonliq,0,16.8,11.0,17.0,4.0,0.084,7.6,18.3,31.1
+303,Beigang Jen,B3,nonliq,0,17.8,15.0,25.0,4.0,0.084,7.6,19.3,33.1
+304,Beigang Jen,B3,nonliq,0,18.8,8.0,13.0,4.0,0.084,7.6,20.3,35.1
+305,Beigang Jen,B5,nonliq,0,4.8,11.0,14.0,4.0,0.084,7.6,6.8,7.6
+306,Beigang Jen,B5,nonliq,0,6.8,5.0,18.0,4.0,0.084,7.6,8.6,11.4
+307,Beigang Jen,B5,nonliq,0,8.8,10.0,14.0,4.0,0.084,7.6,10.6,15.4
+308,Beigang Jen,B5,nonliq,0,10.2,13.0,49.0,4.0,0.084,7.6,12.1,18.3
+309,Beigang Jen,B5,nonliq,0,10.8,15.0,19.0,4.0,0.084,7.6,12.6,19.4
+310,Beigang Jen,B5,nonliq,0,11.8,17.0,10.0,4.0,0.084,7.6,13.6,21.3
+311,Beigang Jen,B5,nonliq,0,14.2,14.0,12.0,4.0,0.084,7.6,15.9,26.1
+312,Beigang Jen,B5,nonliq,0,14.8,14.0,18.0,4.0,0.084,7.6,16.5,27.2
+313,Beigang Jen,B5,nonliq,0,15.8,7.0,99.0,4.0,0.084,7.6,17.4,29.2
+314,Maolo River,F130-2A,nonliq,0,8.6,27.0,17.0,4.2,0.42,7.6,12.2,16.6
+315,Maolo River,F130-2A,nonliq,0,10.3,31.0,20.0,4.2,0.42,7.6,14.2,20.3
+316,Maolo River,F130-2A,nonliq,0,14.8,33.0,24.0,4.2,0.42,7.6,19.5,30.1
+317,Taichung Harbour No. 1,BH-1,nonliq,0,3.8,14.0,14.0,2.7,0.165,7.6,6.1,7.2
+318,Taichung Harbour No. 1,BH-1,nonliq,0,5.8,16.0,8.0,2.7,0.165,7.6,7.9,11.0
+319,Taichung Harbour No. 1,BH-1,nonliq,0,7.8,21.0,22.0,2.7,0.165,7.6,9.7,14.8
+320,Taichung Harbour No. 1,BH-1,nonliq,0,9.8,25.0,17.0,2.7,0.165,7.6,11.5,18.6
+321,Taichung Harbour No. 1,BH-1,nonliq,0,11.8,22.0,30.0,2.7,0.165,7.6,13.3,22.4
+322,Taichung Harbour No. 1,BH-1,nonliq,0,13.8,24.0,22.0,2.7,0.165,7.6,15.1,26.2
+323,Taichung Harbour No. 1,BH-1,nonliq,0,17.8,13.0,22.0,2.7,0.165,7.6,18.7,33.8
+324,Taichung Harbour No. 1,BH-2,nonliq,0,3.8,8.0,19.0,2.7,0.165,7.6,6.1,7.2
+325,Taichung Harbour No. 1,BH-2,nonliq,0,5.8,11.0,8.0,2.7,0.165,7.6,7.9,11.0
+326,Taichung Harbour No. 1,BH-2,nonliq,0,7.8,17.0,22.0,2.7,0.165,7.6,9.7,14.8
+327,Taichung Harbour No. 1,BH-2,nonliq,0,9.8,16.0,17.0,2.7,0.165,7.6,11.5,18.6
+328,Taichung Harbour No. 1,BH-2,nonliq,0,11.8,18.0,30.0,2.7,0.165,7.6,13.3,22.4
+329,Taichung Harbour No. 1,BH-2,nonliq,0,13.8,19.0,22.0,2.7,0.165,7.6,15.1,26.2
+330,Taichung Harbour No. 1,BH-2,nonliq,0,15.8,16.0,18.0,2.7,0.165,7.6,16.9,30.0
+331,Taichung Harbour No. 1,BH-2,nonliq,0,17.8,18.0,22.0,2.7,0.165,7.6,18.7,33.8
+332,Taichung Harbour No. 1,BH-2,nonliq,0,19.8,13.0,35.0,2.7,0.165,7.6,20.5,37.6
+333,Taichung Harbour No. 1,BH-3,nonliq,0,3.8,9.0,19.0,2.7,0.165,7.6,6.1,7.2
+334,Taichung Harbour No. 1,BH-3,nonliq,0,5.8,15.0,8.0,2.7,0.165,7.6,7.9,11.0
+335,Taichung Harbour No. 1,BH-3,nonliq,0,7.8,16.0,22.0,2.7,0.165,7.6,9.7,14.8
+336,Taichung Harbour No. 1,BH-3,nonliq,0,9.8,17.0,17.0,2.7,0.165,7.6,11.5,18.6
+337,Taichung Harbour No. 1,BH-3,nonliq,0,11.8,18.0,26.0,2.7,0.165,7.6,13.3,22.4
+339,Taichung Harbour No. 1,BH-3,nonliq,0,15.8,12.0,81.0,2.7,0.165,7.6,16.9,30.0
+340,Taichung Harbour No. 1,BH-3,nonliq,0,17.8,15.0,32.0,2.7,0.165,7.6,18.7,33.8
+341,Taichung Harbour No. 1,BH-3,nonliq,0,19.8,10.0,77.0,2.7,0.165,7.6,20.5,37.6
+342,Taichung Harbour No. 1,BH-4,nonliq,0,3.8,6.0,43.0,2.7,0.165,7.6,6.1,7.2
+343,Taichung Harbour No. 1,BH-4,nonliq,0,5.8,16.0,8.0,2.7,0.165,7.6,7.9,11.0
+344,Taichung Harbour No. 1,BH-4,nonliq,0,7.8,13.0,22.0,2.7,0.165,7.6,9.7,14.8
+345,Taichung Harbour No. 1,BH-4,nonliq,0,9.8,15.0,17.0,2.7,0.165,7.6,11.5,18.6
+346,Taichung Harbour No. 1,BH-4,nonliq,0,11.8,16.0,30.0,2.7,0.165,7.6,13.3,22.4
+347,Taichung Harbour No. 1,BH-4,nonliq,0,13.8,15.0,22.0,2.7,0.165,7.6,15.1,26.2
+348,Taichung Harbour No. 1,BH-4,nonliq,0,15.8,12.0,18.0,2.7,0.165,7.6,16.9,30.0
+349,Taichung Harbour No. 1,BH-4,nonliq,0,17.8,14.0,81.0,2.7,0.165,7.6,18.7,33.8
+350,Taichung Harbour No. 1,BH-4,nonliq,0,19.8,17.0,35.0,2.7,0.165,7.6,20.5,37.6
+351,Taichung Harbour No. 1,BH-5,nonliq,0,3.8,15.0,14.0,2.7,0.165,7.6,6.1,7.2
+352,Taichung Harbour No. 1,BH-5,nonliq,0,5.8,14.0,8.0,2.7,0.165,7.6,7.9,11.0
+353,Taichung Harbour No. 1,BH-5,nonliq,0,7.8,14.0,25.0,2.7,0.165,7.6,9.7,14.8
+354,Taichung Harbour No. 1,BH-5,nonliq,0,9.8,13.0,8.0,2.7,0.165,7.6,11.5,18.6
+355,Taichung Harbour No. 1,BH-5,nonliq,0,11.8,12.0,8.0,2.7,0.165,7.6,13.3,22.4
+356,Taichung Harbour No. 1,BH-5,nonliq,0,13.8,14.0,65.0,2.7,0.165,7.6,15.1,26.2
+357,Taichung Harbour No. 1,BH-5,nonliq,0,15.8,6.0,84.0,2.7,0.165,7.6,16.9,30.0
+358,Taichung Harbour No. 1,BH-5,nonliq,0,17.8,11.0,84.0,2.7,0.165,7.6,18.7,33.8
+359,Taichung Harbour No. 1,BH-5,nonliq,0,19.8,15.0,97.0,2.7,0.165,7.6,20.5,37.6
+360,Mingjian Shiang,A134-5,nonliq,0,9.3,44.0,32.0,4.0,1.0,7.6,28.6,33.9
+361,Chiayi County,BH-A1,nonliq,0,11.3,15.0,47.0,7.5,0.19,7.6,18.2,22.0
+362,Chiayi County,BH-A1,nonliq,0,12.8,7.0,39.0,7.5,0.19,7.6,19.9,25.1
+363,Chiayi County,BH-A1,nonliq,0,14.3,23.0,33.0,7.5,0.19,7.6,21.6,28.3
+364,Chiayi County,BH-A2,nonliq,0,12.8,12.0,44.0,7.6,0.19,7.6,19.9,25.1
+365,Chiayi County,BH-A2,nonliq,0,14.3,14.0,34.0,7.6,0.19,7.6,21.3,28.0
+366,Chiayi County,BH-A3,nonliq,0,14.7,21.0,30.0,14.3,0.19,7.6,28.9,29.3
+367,Chiayi County,BH-A3,nonliq,0,17.3,22.0,39.0,14.3,0.19,7.6,31.5,34.5
+368,Chiayi County,BH-B1,nonliq,0,11.3,18.0,37.0,4.4,0.19,7.6,16.2,23.1
+369,Chiayi County,BH-B1,nonliq,0,12.8,12.0,43.0,4.4,0.19,7.6,17.7,26.1
+370,Chiayi County,BH-B1,nonliq,0,14.3,20.0,41.0,4.4,0.19,7.6,19.3,29.1
+371,Chiayi County,BH-B1,nonliq,0,15.8,19.0,31.0,4.4,0.19,7.6,20.8,32.2
+372,Chiayi County,BH-B1,nonliq,0,18.8,13.0,15.0,4.4,0.19,7.6,24.1,38.4
+373,Chiayi County,BH-B2,nonliq,0,8.3,5.0,35.0,4.6,0.19,7.6,12.3,16.1
+374,Chiayi County,BH-B2,nonliq,0,14.3,16.0,33.0,4.6,0.19,7.6,18.6,28.3
+375,Chiayi County,BH-B2,nonliq,0,15.8,18.0,47.0,4.6,0.19,7.6,20.2,31.4
+376,Chiayi County,BH-B2,nonliq,0,17.3,18.0,25.0,4.6,0.19,7.6,21.7,34.4
+377,Chiayi County,BH-B2,nonliq,0,18.8,32.0,14.0,4.6,0.19,7.6,23.3,37.5
+378,Chiayi County,BH-B3,nonliq,0,15.8,18.0,32.0,15.3,0.19,7.6,30.3,30.8
+379,Chiayi County,BH-B3,nonliq,0,17.3,18.0,44.0,15.3,0.19,7.6,31.8,33.8
+380,Chiayi County,BH-B3,nonliq,0,18.8,17.0,42.0,15.3,0.19,7.6,33.4,36.8
+381,Chiayi County,BH-C1,nonliq,0,11.3,21.0,42.0,5.3,0.19,7.6,17.0,23.0
+382,Chiayi County,BH-C1,nonliq,0,15.8,17.0,39.0,5.3,0.19,7.6,21.3,31.8
+383,Chiayi County,BH-C2,nonliq,0,14.3,13.0,46.0,8.8,0.19,7.6,22.8,28.3
+384,Chiayi County,BH-C3,nonliq,0,18.8,9.0,45.0,14.6,0.19,7.6,34.3,38.5
+385,Chiayi County,BH-D1,nonliq,0,9.8,15.0,23.0,6.6,0.19,7.6,15.7,18.9
+386,Chiayi County,BH-D2,nonliq,0,14.3,20.0,36.0,8.2,0.19,7.6,23.0,29.1
+387,Chiayi County,BH-D2,nonliq,0,18.8,9.0,45.0,8.2,0.19,7.6,27.9,38.5
+388,Chiayi County,BH-D3,nonliq,0,17.3,13.0,23.0,14.6,0.19,7.6,31.3,34.0
+389,Taibau City,BH-01,nonliq,0,1.3,5.0,35.0,1.0,0.128,7.6,2.2,2.4
+390,Taibau City,BH-01,nonliq,0,2.9,4.0,34.0,1.0,0.128,7.6,3.6,5.5
+392,Taibau City,BH-01,nonliq,0,7.3,13.0,37.0,1.0,0.128,7.6,7.6,13.9
+393,Taibau City,BH-01,nonliq,0,8.9,11.0,71.0,1.0,0.128,7.6,9.1,17.0
+394,Taibau City,BH-01,nonliq,0,10.3,8.0,80.0,1.0,0.128,7.6,10.3,19.6
+395,Taibau City,BH-01,nonliq,0,16.3,15.0,43.0,1.0,0.128,7.6,15.8,31.1
+396,Taibau City,BH-02,nonliq,0,1.3,4.0,86.0,1.0,0.128,7.6,2.1,2.4
+397,Taibau City,BH-02,nonliq,0,2.9,6.0,86.0,1.0,0.128,7.6,3.5,5.4
+398,Taibau City,BH-02,nonliq,0,5.9,12.0,36.0,1.0,0.128,7.6,6.1,11.0
+399,Taibau City,BH-02,nonliq,0,7.3,10.0,36.0,1.0,0.128,7.6,7.4,13.7
+400,Taibau City,BH-02,nonliq,0,11.9,12.0,39.0,1.0,0.128,7.6,11.4,22.3
+401,Taibau City,BH-02,nonliq,0,13.3,16.0,39.0,1.0,0.128,7.6,12.7,25.0
+402,Taibau City,BH-02,nonliq,0,14.9,20.0,39.0,1.0,0.128,7.6,14.1,28.0
+403,Taibau City,BH-02,nonliq,0,16.3,16.0,81.0,1.0,0.128,7.6,15.4,30.7
+404,Taibau City,BH-02,nonliq,0,17.9,17.0,81.0,1.0,0.128,7.6,16.9,33.8
+405,Taibau City,BH-03,nonliq,0,1.3,7.0,69.0,1.0,0.128,7.6,2.2,2.4
+406,Taibau City,BH-03,nonliq,0,2.9,7.0,30.0,1.0,0.128,7.6,3.6,5.5
+407,Taibau City,BH-03,nonliq,0,5.9,3.0,25.0,1.0,0.128,7.6,6.4,11.3
+408,Taibau City,BH-03,nonliq,0,9.9,8.0,36.0,1.0,0.128,7.6,10.0,18.9
+409,Taibau City,BH-03,nonliq,0,11.9,9.0,36.0,1.0,0.128,7.6,11.8,22.7
+410,Taibau City,BH-03,nonliq,0,13.3,18.0,35.0,1.0,0.128,7.6,13.1,25.4
+411,Taibau City,BH-03,nonliq,0,14.9,19.0,33.0,1.0,0.128,7.6,14.6,28.5
+412,Taibau City,BH-03,nonliq,0,16.3,8.0,33.0,1.0,0.128,7.6,16.0,31.3
+413,Taibau City,BH-03,nonliq,0,19.3,24.0,40.0,1.0,0.128,7.6,18.8,37.1
+414,Taibau City,BH-04,nonliq,0,1.3,3.0,54.0,1.0,0.128,7.6,2.2,2.4
+415,Taibau City,BH-04,nonliq,0,2.9,6.0,54.0,1.0,0.128,7.6,3.6,5.5
+416,Taibau City,BH-04,nonliq,0,5.9,16.0,35.0,1.0,0.128,7.6,6.4,11.3
+417,Taibau City,BH-04,nonliq,0,7.9,7.0,31.0,1.0,0.128,7.6,8.2,15.1
+418,Taibau City,BH-04,nonliq,0,8.9,8.0,80.0,1.0,0.128,7.6,9.1,17.0
+419,Taibau City,BH-04,nonliq,0,10.9,10.0,85.0,1.0,0.128,7.6,10.9,20.8
+420,Taibau City,BH-04,nonliq,0,11.9,9.0,70.0,1.0,0.128,7.6,11.8,22.7
+421,Taibau City,BH-04,nonliq,0,16.3,22.0,34.0,1.0,0.128,7.6,15.9,31.2
+422,Taibau City,BH-04,nonliq,0,17.9,18.0,34.0,1.0,0.128,7.6,17.5,34.3
+423,Taibau City,BH-04,nonliq,0,19.3,16.0,55.0,1.0,0.128,7.6,18.8,37.0
+424,Chanbing Industrial Park,AS1-1,nonliq,0,3.7,16.0,5.0,1.1,0.124,7.6,4.0,6.6
+425,Chanbing Industrial Park,AS1-1,nonliq,0,8.7,19.0,14.0,1.1,0.124,7.6,9.1,16.8
+426,Chanbing Industrial Park,AS1-1,nonliq,0,9.7,23.0,13.0,1.1,0.124,7.6,10.2,18.8
+427,Chanbing Industrial Park,AS1-1A,nonliq,0,8.7,21.0,14.0,1.5,0.124,7.6,10.2,17.4
+428,Chanbing Industrial Park,AS1-2,nonliq,0,1.7,14.0,8.0,1.1,0.124,7.6,2.5,3.2
+429,Chanbing Industrial Park,AS1-2,nonliq,0,8.7,22.0,13.0,1.1,0.124,7.6,9.7,17.3
+430,Chanbing Industrial Park,AS1-2,nonliq,0,9.7,20.0,7.0,1.1,0.124,7.6,10.7,19.4
+431,Chanbing Industrial Park,AS1-2A,nonliq,0,9.7,28.0,10.0,1.5,0.124,7.6,11.2,19.5
+432,Chanbing Industrial Park,AS1-3,nonliq,0,3.7,8.0,15.0,1.1,0.124,7.6,4.4,7.0
+433,Chanbing Industrial Park,AS1-3,nonliq,0,4.7,16.0,17.0,1.1,0.124,7.6,5.4,9.1
+434,Chanbing Industrial Park,AS1-3,nonliq,0,7.7,24.0,9.0,1.1,0.124,7.6,8.6,15.2
+435,Chanbing Industrial Park,AS1-3,nonliq,0,8.7,22.0,10.0,1.1,0.124,7.6,9.6,17.2
+436,Chanbing Industrial Park,AS1-3,nonliq,0,9.7,18.0,16.0,1.1,0.124,7.6,10.6,19.2
+437,Chanbing Industrial Park,AS1-3A,nonliq,0,9.7,22.0,15.0,1.4,0.124,7.6,11.6,19.9
+438,Chanbing Industrial Park,AS1-4,nonliq,0,4.7,15.0,15.0,1.1,0.124,7.6,5.4,9.0
+439,Chanbing Industrial Park,AS1-4,nonliq,0,8.7,20.0,12.0,1.1,0.124,7.6,9.5,17.1
+440,Chanbing Industrial Park,AS1-4,nonliq,0,9.7,19.0,10.0,1.1,0.124,7.6,10.5,19.1
+441,Chanbing Industrial Park,AS1-4A,nonliq,0,9.7,21.0,13.0,1.3,0.124,7.6,11.3,19.7
+442,Chanbing Industrial Park,AS1-5,nonliq,0,7.7,21.0,11.0,1.1,0.124,7.6,8.7,15.3
+443,Chanbing Industrial Park,AS1-5A,nonliq,0,8.7,23.0,13.0,0.6,0.124,7.6,9.3,17.4
+445,Chanbing Industrial Park,AS1-6,nonliq,0,4.7,17.0,14.0,1.1,0.124,7.6,5.4,9.1
+446,Chanbing Industrial Park,AS1-6,nonliq,0,8.7,22.0,6.0,1.1,0.124,7.6,9.5,17.1
+447,Chanbing Industrial Park,AS1-6,nonliq,0,9.7,17.0,11.0,1.1,0.124,7.6,10.5,19.1
+448,Chanbing Industrial Park,AS1-6A,nonliq,0,4.7,14.0,14.0,0.6,0.124,7.6,5.2,9.3
+449,Chanbing Industrial Park,AS1-6A,nonliq,0,8.7,21.0,12.0,0.6,0.124,7.6,9.4,17.5
+450,Chanbing Industrial Park,AS1-6A,nonliq,0,9.7,23.0,13.0,0.6,0.124,7.6,10.4,19.5
+451,Chanbing Industrial Park,AS1-7,nonliq,0,4.7,16.0,18.0,1.1,0.124,7.6,5.4,9.0
+452,Chanbing Industrial Park,AS1-7,nonliq,0,5.7,19.0,9.0,1.1,0.124,7.6,6.4,11.0
+453,Chanbing Industrial Park,AS1-7,nonliq,0,6.7,16.0,8.0,1.1,0.124,7.6,7.4,13.0
+454,Chanbing Industrial Park,AS1-7,nonliq,0,8.7,22.0,7.0,1.1,0.124,7.6,9.5,17.1
+455,Chanbing Industrial Park,AS1-7,nonliq,0,9.7,19.0,11.0,1.1,0.124,7.6,10.5,19.1
+456,Chanbing Industrial Park,AS1-7A,nonliq,0,9.7,22.0,16.0,1.1,0.124,7.6,11.0,19.6
+457,Chanbing Industrial Park,AS2-1,nonliq,0,3.7,17.0,8.0,1.1,0.124,7.6,4.3,7.0
+458,Chanbing Industrial Park,AS2-1,nonliq,0,4.7,15.0,17.0,1.1,0.124,7.6,5.3,8.9
+459,Chanbing Industrial Park,AS2-1,nonliq,0,7.7,24.0,10.0,1.1,0.124,7.6,8.2,14.9
+460,Chanbing Industrial Park,AS2-1,nonliq,0,8.7,22.0,15.0,1.1,0.124,7.6,9.3,16.9
+461,Chanbing Industrial Park,AS2-1,nonliq,0,9.7,18.0,7.0,1.1,0.124,7.6,10.3,18.9
+462,Chanbing Industrial Park,AS2-2,nonliq,0,8.7,22.0,9.0,1.1,0.124,7.6,9.5,17.2
+463,Chanbing Industrial Park,AS2-2,nonliq,0,9.7,20.0,12.0,1.1,0.124,7.6,10.5,19.2
+464,Chanbing Industrial Park,AS2-3,nonliq,0,8.7,17.0,15.0,1.1,0.124,7.6,9.4,17.1
+465,Chanbing Industrial Park,AS2-3,nonliq,0,9.7,21.0,17.0,1.1,0.124,7.6,10.5,19.1
+466,Chanbing Industrial Park,AS2-4,nonliq,0,9.7,22.0,11.0,1.1,0.124,7.6,10.6,19.2
+467,Chanbing Industrial Park,AS2-5,nonliq,0,8.7,22.0,14.0,1.1,0.124,7.6,9.5,17.1
+468,Chanbing Industrial Park,AS2-5,nonliq,0,9.7,20.0,14.0,1.1,0.124,7.6,10.4,19.1
+469,Chanbing Industrial Park,AS2-6,nonliq,0,8.7,20.0,9.0,1.1,0.124,7.6,9.6,17.2
+470,Chanbing Industrial Park,AS2-7,nonliq,0,9.7,20.0,18.0,1.1,0.124,7.6,10.5,19.1
+471,Chanbing Industrial Park,AS2-8,nonliq,0,7.7,20.0,13.0,1.1,0.124,7.6,8.7,15.3
+472,Chanbing Industrial Park,AS2-8,nonliq,0,8.7,21.0,14.0,1.1,0.124,7.6,9.7,17.3
+473,Chanbing Industrial Park,AS2-8,nonliq,0,9.7,16.0,14.0,1.1,0.124,7.6,10.7,19.3
+474,Chanbing Industrial Park,AS2-9,nonliq,0,9.7,21.0,21.0,1.1,0.124,7.6,10.8,19.5
+475,Chanbing Industrial Park,AS3-1,nonliq,0,5.7,17.0,9.0,2.5,0.124,7.6,7.9,11.2
+476,Chanbing Industrial Park,AS3-1,nonliq,0,8.7,17.0,16.0,2.5,0.124,7.6,11.0,17.3
+477,Chanbing Industrial Park,AS3-1,nonliq,0,10.2,18.0,13.0,2.5,0.124,7.6,12.5,20.3
+478,Chanbing Industrial Park,AS3-2,nonliq,0,3.7,16.0,12.0,2.4,0.124,7.6,5.9,7.2
+479,Chanbing Industrial Park,AS3-2,nonliq,0,4.7,8.0,14.0,2.4,0.124,7.6,6.8,9.2
+480,Chanbing Industrial Park,AS3-2,nonliq,0,7.7,20.0,13.0,2.4,0.124,7.6,9.8,15.2
+481,Chanbing Industrial Park,AS3-2,nonliq,0,8.7,19.0,10.0,2.4,0.124,7.6,10.8,17.2
+482,Chanbing Industrial Park,AS3-2,nonliq,0,10.2,18.0,23.0,2.4,0.124,7.6,12.3,20.2
+483,Chanbing Industrial Park,AS6-1,nonliq,0,5.7,18.0,17.0,0.4,0.124,7.6,6.3,11.6
+484,Chanbing Industrial Park,AS6-1,nonliq,0,6.7,17.0,20.0,0.4,0.124,7.6,7.3,13.6
+485,Chanbing Industrial Park,AS6-1,nonliq,0,8.7,14.0,13.0,0.4,0.124,7.6,9.3,17.6
+486,Chanbing Industrial Park,AS6-1,nonliq,0,9.7,12.0,40.0,0.4,0.124,7.6,10.3,19.6
+487,Chanbing Industrial Park,AS6-10,nonliq,0,7.7,20.0,18.0,1.2,0.124,7.6,9.3,15.8
+488,Chanbing Industrial Park,AS6-10,nonliq,0,8.7,14.0,17.0,1.2,0.124,7.6,10.3,17.8
+489,Chanbing Industrial Park,AS6-10,nonliq,0,9.7,21.0,12.0,1.2,0.124,7.6,11.3,19.8
+490,Chanbing Industrial Park,AS6-11,nonliq,0,8.7,15.0,18.0,1.1,0.124,7.6,10.0,17.6
+491,Chanbing Industrial Park,AS6-11,nonliq,0,9.7,16.0,13.0,1.1,0.124,7.6,11.0,19.6
+492,Chanbing Industrial Park,AS6-2,nonliq,0,7.7,20.0,13.0,0.5,0.124,7.6,8.5,15.7
+493,Chanbing Industrial Park,AS6-2,nonliq,0,9.7,18.0,28.0,0.5,0.124,7.6,10.7,19.9
+494,Chanbing Industrial Park,AS6-3,nonliq,0,6.7,23.0,5.0,1.4,0.124,7.6,8.3,13.6
+495,Chanbing Industrial Park,AS6-3,nonliq,0,9.7,22.0,20.0,1.4,0.124,7.6,11.5,19.9
+496,Chanbing Industrial Park,AS6-4,nonliq,0,0.7,13.0,15.0,0.3,0.124,7.6,1.0,1.4
+498,Chanbing Industrial Park,AS6-4,nonliq,0,7.7,17.0,16.0,0.3,0.124,7.6,8.3,15.7
+499,Chanbing Industrial Park,AS6-4,nonliq,0,8.7,16.0,29.0,0.3,0.124,7.6,9.3,17.7
+500,Chanbing Industrial Park,AS6-4,nonliq,0,9.7,23.0,17.0,0.3,0.124,7.6,10.4,19.8
+501,Chanbing Industrial Park,AS6-5,nonliq,0,8.7,18.0,14.0,0.8,0.124,7.6,9.9,17.8
+502,Chanbing Industrial Park,AS6-5,nonliq,0,9.7,20.0,15.0,0.8,0.124,7.6,10.9,19.9
+503,Chanbing Industrial Park,AS6-6,nonliq,0,9.7,21.0,12.0,1.1,0.124,7.6,11.1,19.7
+504,Chanbing Industrial Park,AS6-7,nonliq,0,7.7,22.0,9.0,0.6,0.124,7.6,8.8,15.9
+505,Chanbing Industrial Park,AS6-7,nonliq,0,8.7,17.0,31.0,0.6,0.124,7.6,9.8,17.9
+506,Chanbing Industrial Park,AS6-9,nonliq,0,8.7,22.0,16.0,1.2,0.124,7.6,10.3,17.9
+507,Chanbing Industrial Park,AS6-9,nonliq,0,9.7,17.0,12.0,1.2,0.124,7.6,11.3,19.9
+508,Shinhua Jen,BH-1,nonliq,0,7.3,4.0,99.0,5.3,0.055,7.6,12.1,14.0
+509,Shinhua Jen,BH-2,nonliq,0,8.8,6.0,91.0,5.3,0.055,7.6,13.4,16.9
+510,Tangshan City,-,nonliq_ib,0,5.3,30.0,10.0,3.1,0.5,7.6,7.6,10.0
+511,Nakamura Dyke N-1,-,nonliq_ib,0,3.4,19.0,4.0,0.9,0.32,7.7,4.0,6.4
+512,Heber Road A1,-,nonliq_ib,0,2.9,30.0,12.0,1.8,0.78,6.5,4.3,5.4
+513,Ohama No. 1(4),-,nonliq_ib,0,5.2,25.0,3.0,1.2,0.205,7.7,6.1,10.1
+514,Sandholdt UC-B10,-,nonliq_ib,0,6.1,26.0,5.0,1.8,0.28,6.9,7.4,11.7
+515,Cereenan St. B-12,-,nonliq_ib,0,5.0,35.0,19.0,2.3,0.25,7.7,6.9,9.6
+516,Kushiro Port Quay Wall Site D,-,nonliq_ib,0,10.8,27.0,0.0,1.6,0.4,7.6,12.0,21.2
+517,Malden Street Unit D,-,nonliq_ib,0,9.3,24.0,25.0,3.9,0.51,6.7,10.3,15.7
+518,Kobe Earthquake (Site 1),-,nonliq_ib,0,5.8,42.0,3.0,2.4,0.4,6.9,8.2,11.5
+519,Kobe Earthquake (Site 2),-,nonliq_ib,0,8.0,34.0,15.0,2.9,0.4,6.9,10.5,15.5
+520,Kobe Earthquake (Site 3),-,nonliq_ib,0,5.8,40.0,3.0,2.5,0.4,6.9,7.8,11.1
+521,Kobe Earthquake (Site 4),-,nonliq_ib,0,4.3,26.0,1.0,2.1,0.4,6.9,5.5,7.7
+522,Kobe Earthquake (Site 10),-,nonliq_ib,0,7.5,24.0,9.0,4.5,0.6,6.9,10.9,14.0
+523,Kobe Earthquake (Site 12),-,nonliq_ib,0,5.3,19.0,14.0,3.2,0.5,6.9,7.3,9.4
+524,Kobe Earthquake (Site 18),-,nonliq_ib,0,10.5,41.0,0.0,7.7,0.7,6.9,17.4,20.3
+525,Kobe Earthquake (Site 20),-,nonliq_ib,0,6.0,51.0,0.0,2.0,0.55,6.9,7.6,11.6
+526,Kobe Earthquake (Site 21),-,nonliq_ib,0,3.5,24.0,0.0,1.7,0.6,6.9,4.5,6.3
+527,Kobe Earthquake (Site 22),-,nonliq_ib,0,6.0,31.0,6.0,2.4,0.6,6.9,8.1,11.6
+528,Kobe Earthquake (Site 25),-,nonliq_ib,0,3.5,28.0,3.0,2.2,0.7,6.9,5.1,6.5
+529,Kobe Earthquake (Site 26),-,nonliq_ib,0,3.5,26.0,0.0,0.9,0.6,6.9,3.8,6.4
+530,Kobe Earthquake (Site 27),-,nonliq_ib,0,2.5,28.0,10.0,1.1,0.6,6.9,3.0,4.4
+531,Kobe Earthquake (Site 30),-,nonliq_ib,0,8.5,31.0,10.0,1.5,0.6,6.9,8.0,14.9
+532,Kobe Earthquake (Site 31),-,nonliq_ib,0,4.0,35.0,0.0,1.2,0.6,6.9,4.7,7.4
+533,Kobe Earthquake (Site 32),-,nonliq_ib,0,3.5,20.0,6.0,1.4,0.5,6.9,4.2,6.2
+534,Kobe Earthquake (Site 33),-,nonliq_ib,0,8.0,21.0,50.0,2.0,0.5,6.9,8.5,14.5
+535,Kobe Earthquake (Site 36),-,nonliq_ib,0,3.5,21.0,3.0,0.9,0.6,6.9,3.7,6.2
+536,Kobe Earthquake (Site 39),-,nonliq_ib,0,4.5,47.0,0.0,2.6,0.6,6.9,6.7,8.6
+537,Kobe Earthquake (Site 40),-,nonliq_ib,0,3.5,33.0,0.0,2.8,0.6,6.9,6.0,6.7
+538,Ashiyama A (Mntn Sand 1),-,nonliq_ib,0,5.2,17.0,18.0,3.5,0.4,6.9,8.2,9.9
+539,,-,nonliq_ib,0,8.5,20.0,20.0,5.0,0.4,6.9,12.7,16.2
+540,,-,nonliq_ib,0,9.5,31.0,20.0,5.0,0.4,6.9,13.8,18.2
